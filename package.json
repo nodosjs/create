@@ -1,0 +1,25 @@
+{
+  "name": "@nodosjs/create",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "@nodosjs/create": "bin/create.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodosjs/create.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodosjs/create/issues"
+  },
+  "homepage": "https://github.com/nodosjs/create#readme",
+  "dependencies": {
+    "@nodosjs/cli": "^0.0.55"
+  }
+}
